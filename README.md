@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Tiago
 
 ## 🚀 About Me  
-I'm a **Team Lead and Software Engineer at Corebridge**. I’m passionate about building scalable and high-quality software solutions while mentoring and growing engineering teams.  
+I'm a **Team Lead and Software Engineer at [Corebridge](https://www.corebridge.net/)**. I’m passionate about building scalable and high-quality software solutions while mentoring and growing engineering teams.  
 
 ## 🎯 What I’m Into  
 In my **part-time**, I dedicate myself to **continuous learning**, exploring various fields such as:  
