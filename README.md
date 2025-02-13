@@ -15,7 +15,7 @@ In my **part-time**, I dedicate myself to **continuous learning**, exploring var
 I'm currently working with:  
 
 - ⚡ **C#/.NET**  
-- ⚡ **Angular**
+- ⚡ **Angular/Typescript**
 - ⚡ **SQL Server** 
 
 ## 🛠️ Languages I Play With  
