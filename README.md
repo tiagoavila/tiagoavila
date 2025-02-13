@@ -9,7 +9,14 @@ In my **part-time**, I dedicate myself to **continuous learning**, exploring var
 - 📊 **Algorithms & Data Structures**
 - 🏗️ **Software Architecture**  
 - 🚀 **DevOps & Cloud Technologies**  
-- 🤖 **Artificial Intelligence & Machine Learning**  
+- 🤖 **Artificial Intelligence & Machine Learning**
+
+## 💻 Tech Stack  
+I'm currently working with:  
+
+- ⚡ **C#/.NET**  
+- ⚡ **Angular**
+- ⚡ **SQL Server** 
 
 ## 🛠️ Languages I Play With  
 I enjoy diving into new programming languages! So far, I’ve explored:  
