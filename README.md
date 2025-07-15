@@ -28,7 +28,6 @@ I enjoy diving into new programming languages! So far, I’ve explored:
 Feel free to reach out and discuss tech, career growth, or just say hi!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-avila/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiagoavila)  
 
 
 <!--
